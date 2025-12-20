@@ -5,6 +5,9 @@
 
 ## Overview
 This project involves the design and implementation on an **omnidirectional mobile robot** capable of holonomic motion. The system integrated an **Arduino IDE**, **ultrasonic sensor** for obstacle avoidance, and a **Android Application** for wireless teleoperation via Bluetooth.
+
+### System Block Diagram
+![](images/System_Block_Diagram.jpg)
 ## Demo
 
 ### 1. Holonomic Motion Test (Forward, Lateral, Rotational)
