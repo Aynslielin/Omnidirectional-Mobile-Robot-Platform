@@ -45,4 +45,4 @@ To achieve lateral movement (strafing), the wheels are driven in opposition:
 Below is the finished prototype of the Mecanum Wheel Robot:
 
 ![Robot Photo](images
-/Robot_view (front view).jpg)
+/Robot_front.jpg)
