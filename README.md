@@ -32,3 +32,6 @@ The control system operates on a loop that handles:
 1. **Signal Parsing:** Decoding characters received from the Android App via Bluetooth (UART).
 2. **Motor Mixing:** Converting the desired direction command into specific PWM signals for the four independent motors.
 3. **Interrupt/Polling:** Checking sensor data to override user commands if an  obstacle is imminent.
+
+## Kinematic Principle
+The mecanum wheel allows for a force vector perpendicular to the wheel rotation. By combining the rotation directions of the four wheels, the robot creates a net force vector in any desired direction.
