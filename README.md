@@ -11,7 +11,7 @@ This project involves the design and implementation on an **omnidirectional mobi
 ## Demo
 
 ### 1. Holonomic Motion Test (Forward, Lateral, Rotational)
-[](https://youtube.com/shorts/gLr8NuW0tnE?feature=share)
+[Click to Watch on YouTube](https://youtube.com/shorts/gLr8NuW0tnE?feature=share)
 
 ### 2. Obstacle Avoidance Test
 [Click to Watch on YouTube](https://youtube.com/shorts/wTYX9rH3BQc?feature=share)
