@@ -54,5 +54,4 @@ Below is the finished prototype of the Mecanum Wheel Robot:
 
 ### Arduino Bluetooth Control App
 ![](https://play-lh.googleusercontent.com/izs9TEULA4Ied7XooECSG5C06R8Ac_VEJTyIM26xA0Zv-yplKk1pTdnPEzEUy4svgVqT=w1052-h592-rw)
-![](https://play-lh.googleusercontent.com/KYUJDqxqB6m2HtSjXFf6t-842T37yzd70hLQCrLQtZGAetOLF0kzgp4i7DBnv3XlZ1M=w1052-h592-rw)
 ![](https://play-lh.googleusercontent.com/leawuALrhhO1E2HHSDxuc5nfbHtuhvfGq_WLMq24_wuJeMB7sBv_XhNm0ggHy5Mubw=w1052-h592-rw)
